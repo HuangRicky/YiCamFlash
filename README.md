@@ -7,16 +7,16 @@ Yi Camera is a nice surveillance tool. However, usually company would block rtsp
 
 Some expert have created the firmware file for Yi cameras.
 
-https://github.com/TheCrypt0/yi-hack-v4
+[https://github.com/TheCrypt0/yi-hack-v4](https://github.com/TheCrypt0/yi-hack-v4)
 
-https://github.com/roleoroleo/yi-hack-Allwinner
+[https://github.com/roleoroleo/yi-hack-Allwinner](https://github.com/roleoroleo/yi-hack-Allwinner)
 
 # Installation on Yi Camera Home 1080p.
 
 This is the official website link for Home 1080p cam.
 [Yi Cam Home 1080p Link](https://store.yitechnology.com/products/yi-1080p-home-camera)
 
-The issue is, if you buy the cam now, it's likely to get a cam with firmware version 8.2.0. So, you need to use https://github.com/roleoroleo/yi-hack-Allwinner , not "v4"
+The issue is, if you buy the cam now, it's likely to get a cam with firmware version 8.2.0. So, you need to use [https://github.com/roleoroleo/yi-hack-Allwinner](https://github.com/roleoroleo/yi-hack-Allwinner) , not "v4"
 
 ## Detailed steps
 1. Need to download the Yi Home app on your cellphone.
@@ -26,9 +26,9 @@ If you are satisfied with the original Yi Cam features, you can stop now.
 
 3. Check your firmware's version in Yi Home App, in the camera, settings
 
-3. Now follow https://github.com/roleoroleo/yi-hack-Allwinner instruction, suppose you have firmware version 8.2.0. I copy from Roleo's page:
+3. Now follow [https://github.com/roleoroleo/yi-hack-Allwinner](https://github.com/roleoroleo/yi-hack-Allwinner) instruction, suppose you have firmware version 8.2.0. I copy from Roleo's page:
 4. Format an SD Card as FAT32. It's recommended to format the card in the camera using the camera's native format function. If the card is already formatted, remove all the files.
-5. Download the latest release from the https://github.com/roleoroleo/yi-hack-Allwinner Releases page
+5. Download the latest release from the [https://github.com/roleoroleo/yi-hack-Allwinner](https://github.com/roleoroleo/yi-hack-Allwinner) Releases page
 6. Extract the contents of the archive to the root of your SD card. So that you will have 2 files on it.
 7. Insert the SD Card and reboot the camera
 8. Wait for the camera to update. It will reboot a couple of times as the camera is rooted and the new firmware is applied. It can take up to an hour to update. Once the light is solid blue for at least a minute it is complete. When it finishes, cam should show blue light.

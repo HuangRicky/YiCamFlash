@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Flashing Yi Camera to use in Home Assistant
 
 You can use the [editor on GitHub](https://github.com/HuangRicky/YiCamFlash/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
